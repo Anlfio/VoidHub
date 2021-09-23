@@ -1,3 +1,0 @@
-repeat wait() until game.Players.LocalPlayer.Character
-url = "https://raw.githubusercontent.com/Wind596/VoidHub/main/Loader"
-loadstring(game:HttpGet(url))()
