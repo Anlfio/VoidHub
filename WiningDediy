@@ -3,5 +3,5 @@ pcall(game.HttpGet, game, "https://raw.githubusercontent.com/Wind596/VoidHub/mai
 if Void then
 loadstring(Script)()
 else
-game:GetService("Players").LocalPlayer:Kick("Failed to connect to github")
+game:GetService("Players").LocalPlayer:Kick("Failed connect report to Rxito#0001")
 end
